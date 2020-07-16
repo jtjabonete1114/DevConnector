@@ -16,7 +16,7 @@ const Post = ({ getPost, post: { post, loading }, match }) => {
     <Spinner />
   ) : (
     <Fragment>
-      <Link to='/post' className='btn'>
+      <Link to='/posts' className='btn'>
         Back to Posts
       </Link>
       <PostItem post={post} showActions={false} />
