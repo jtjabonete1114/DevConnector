@@ -1,5 +1,5 @@
 {
-  "mongoURI": "mongodb+srv://jtjabonete:jtjabonete0214@devconnector-dahk8.mongodb.net/test?retryWrites=true&w=majority",
+  "mongoURI": "mongodb+srv://jtjabonete:jtjabonete@devconnector.dahk8.mongodb.net/test?retryWrites=true&w=majority",
   "jwtSecret": "mysecrettoken",
   "githubClientId": "6791a04f932b8a01ef33",
   "githubSecret": "ce149850fab1d84f10b2378e8ad96af7d1a8ced3"
